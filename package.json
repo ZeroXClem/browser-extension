@@ -25,7 +25,7 @@
     "babel-jest": "^29.5.0",
     "dotenv-webpack": "^8.0.1",
     "eslint-plugin-unused-imports": "^2.0.0",
-    "framer-motion": "^8.4.3",
+    "framer-motion": "^8.5.5",
     "immer": "^9.0.21",
     "lodash": "^4.17.21",
     "openai": "^3.2.1",
